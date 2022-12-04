@@ -1,0 +1,14 @@
+Order for Manush
+Pizza --- 0   =   $0.0
+Burger --- 0   =   $0.0
+Fries --- 0   =   $0.0
+Onion Rings --- 0   =   $0.0
+Shirley Temple --- 0   =   $0.0
+Pasta --- 0   =   $0.0
+Spaghetti --- 0   =   $0.0
+Burrito --- 6   =   $41.94
+Burrito Bowl --- 6   =   $41.94
+
+Subtotal              ---          $83.88
+Sales Tax             ---          $10.9
+Total                 ---          $94.78
